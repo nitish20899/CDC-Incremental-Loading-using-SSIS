@@ -1,5 +1,5 @@
 # Incremental Loading using CDC 
-##### This project is all about implementing a pipeline on SSIS to preform incremental update of new rercords from the source table to destination table using CDC (Change Data Capture). A detail documentation will updated soon. Below are some of the screenshots
+##### This project is all about implementing a pipeline on SSIS to perform incremental update of new records from the source table to destination table using CDC (Change Data Capture). A detail documentation will updated soon. Below are some of the screenshots
 
 ![CDC Control flow](https://user-images.githubusercontent.com/63724986/155437422-9a0a7ca6-a00d-46db-8500-14a58832d0da.PNG)
 
